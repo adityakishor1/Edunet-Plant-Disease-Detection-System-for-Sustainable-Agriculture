@@ -30,20 +30,20 @@ The prediction page is where users can upload plant images for disease diagnosis
 
 Users can select or drag-and-drop a plant picture into the upload section.
 
-![Choose Plant Picture](images/choose_plant.png)
+![Choose Plant Picture](https://github.com/adityakishor1/Edunet-Plant-Disease-Detection-System-for-Sustainable-Agriculture/blob/d9df5c6e81daa73d7ba40202e49f9a13196ad3ba/Plant%20Disease%20Detection%20System%20for%20Sustainable%20Agriculture/output%20screenshots/3chooseplantpic.png)
 
 
 ## Showing Image
 
 The uploaded image is displayed for confirmation before running the prediction.
 
-![Showing Image](images/showing_image.png)
+![Showing Image](https://github.com/adityakishor1/Edunet-Plant-Disease-Detection-System-for-Sustainable-Agriculture/blob/d9df5c6e81daa73d7ba40202e49f9a13196ad3ba/Plant%20Disease%20Detection%20System%20for%20Sustainable%20Agriculture/output%20screenshots/4showimg.png)
 
 
 ## Output
 
 After prediction, the result is displayed, indicating the type of disease or a healthy status.
 
-![Output](images/output.png)
+![Output](https://github.com/adityakishor1/Edunet-Plant-Disease-Detection-System-for-Sustainable-Agriculture/blob/d9df5c6e81daa73d7ba40202e49f9a13196ad3ba/Plant%20Disease%20Detection%20System%20for%20Sustainable%20Agriculture/output%20screenshots/5%20output.jpg)
 
 ---
