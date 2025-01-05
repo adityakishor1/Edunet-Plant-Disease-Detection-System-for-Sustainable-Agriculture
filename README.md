@@ -12,12 +12,16 @@ This repository contains the code and resources for the **Plant Diseases Predict
 4. [Showing Image](#showing-image)
 5. [Output](#output)
 
+<details>
+<summary><b>Home Page</b></summary>
 
 ## Home Page
 
 The home page provides an overview of the project and allows users to navigate to the prediction section.
 
 ![Home Page](https://github.com/adityakishor1/Edunet-Plant-Disease-Detection-System-for-Sustainable-Agriculture/blob/d0335817308d7b414c5fe311abbaa71883d1b43c/Plant%20Disease%20Detection%20System%20for%20Sustainable%20Agriculture/output%20screenshots/1Home.png)
+
+</details>
 
 
 ## Prediction Page
