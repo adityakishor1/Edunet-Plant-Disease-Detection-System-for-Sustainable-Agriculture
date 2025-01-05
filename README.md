@@ -24,7 +24,7 @@ The home page provides an overview of the project and allows users to navigate t
 
 The prediction page is where users can upload plant images for disease diagnosis.
 
-![Prediction Page]()
+![Prediction Page](https://github.com/adityakishor1/Edunet-Plant-Disease-Detection-System-for-Sustainable-Agriculture/blob/9169c8ecba8b52ba08be31f35383c99c03dca71b/Plant%20Disease%20Detection%20System%20for%20Sustainable%20Agriculture/output%20screenshots/2Prediction%20page.png)
 
 ## Choose Plant Picture
 
