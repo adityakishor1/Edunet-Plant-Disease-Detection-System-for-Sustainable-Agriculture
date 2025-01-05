@@ -17,15 +17,14 @@ This repository contains the code and resources for the **Plant Diseases Predict
 
 The home page provides an overview of the project and allows users to navigate to the prediction section.
 
-![Home Page](images/homepage.png)
+![Home Page](output screenshots/1Home.png)
 
 
 ## Prediction Page
 
 The prediction page is where users can upload plant images for disease diagnosis.
 
-![Prediction Page](Plant Disease Detection System for Sustainable Agriculture/output screenshots/1Home.png)
-
+![Prediction Page]()
 
 ## Choose Plant Picture
 
