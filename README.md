@@ -26,6 +26,7 @@ The home page provides an overview of the project and allows users to navigate t
 
 <details>
 <summary><b>Prediction Page</b></summary>
+  
 ## Prediction Page
 
 The prediction page is where users can upload plant images for disease diagnosis.
@@ -46,6 +47,7 @@ Users can select or drag-and-drop a plant picture into the upload section.
 
 <details>
 <summary><b>Showing Image</b></summary>
+  
 ## Showing Image
 
 The uploaded image is displayed for confirmation before running the prediction.
@@ -55,6 +57,7 @@ The uploaded image is displayed for confirmation before running the prediction.
 
 <details>
 <summary><b>Output</b></summary>
+  
 ## Output
 
 After prediction, the result is displayed, indicating the type of disease or a healthy status.
