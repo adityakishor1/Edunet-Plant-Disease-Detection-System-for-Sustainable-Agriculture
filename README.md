@@ -24,7 +24,7 @@ The home page provides an overview of the project and allows users to navigate t
 
 The prediction page is where users can upload plant images for disease diagnosis.
 
-![Prediction Page](images/prediction.png)
+![Prediction Page](Plant Disease Detection System for Sustainable Agriculture/output screenshots/1Home.png)
 
 
 ## Choose Plant Picture
